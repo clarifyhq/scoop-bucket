@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-rc.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/clarifyhq/clarify-cli/releases/download/v0.1.0-rc.3/clarify_windows_amd64.zip",
+            "bin": [
+                "clarify.exe"
+            ],
+            "hash": "d1128bdb7c593289685af68fca00b007fa78be76788b70c2d80eef43580bc0c6"
+        },
+        "arm64": {
+            "url": "https://github.com/clarifyhq/clarify-cli/releases/download/v0.1.0-rc.3/clarify_windows_arm64.zip",
+            "bin": [
+                "clarify.exe"
+            ],
+            "hash": "9d74c35541f61c2d0b486f2ad4d295829cadf9e02bea3f0934eb040664f81824"
+        }
+    },
+    "homepage": "https://docs.clarify.ai/cli",
+    "license": "MIT",
+    "description": "The Clarify CRM from your terminal"
+}
