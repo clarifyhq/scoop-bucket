@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/clarifyhq/clarify-cli/releases/download/v0.1.0/clarify_windows_amd64.zip",
+            "url": "https://github.com/clarifyhq/clarify-cli/releases/download/v0.2.0/clarify_windows_amd64.zip",
             "bin": [
                 "clarify.exe"
             ],
-            "hash": "871d2c48d8155fd2a81d701c54a9ec05d04c1d8abd6bc9b8b7a05d0cd166ec61"
+            "hash": "5e97f231dc0f382ec152edbab87cd3dd2bc966f7fbf60ed3c070aea8cd6d5693"
         },
         "arm64": {
-            "url": "https://github.com/clarifyhq/clarify-cli/releases/download/v0.1.0/clarify_windows_arm64.zip",
+            "url": "https://github.com/clarifyhq/clarify-cli/releases/download/v0.2.0/clarify_windows_arm64.zip",
             "bin": [
                 "clarify.exe"
             ],
-            "hash": "5293def31a055ead8a262959b94fe24089edebd92f0a919432d184b99b23171c"
+            "hash": "3c54f25dcda62e7e2480edefd04ea7e3c2893be44836134f0a52cb0f02aed5d9"
         }
     },
     "homepage": "https://docs.clarify.ai/cli",
